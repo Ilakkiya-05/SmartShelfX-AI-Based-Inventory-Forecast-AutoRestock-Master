@@ -1,1 +1,1 @@
-# SmartShelfX-AI-Based-Inventory-Forecast-AutoRestock-Master
+# SmartShelfX-AI-Based-Inventory-Forecast-AutoRestock
